@@ -40,4 +40,5 @@ We welcome contributions to enhance the Population Dashboard. If you have any id
 # License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-# Dashboard Preview![Dashboard 1](https://github.com/user-attachments/assets/4421da0d-3f9d-44a1-909d-30635fd9bcab)
+# Dashboard Preview![Dashboard 1](https://github.com/user-attachments/assets/4421da0d-3f9d-44a1-909d-30635fd9bcab)![Dashboard 2](https://github.com/user-attachments/assets/cb2aac6b-9e54-445c-b4f2-b14e0da815c5)
+
